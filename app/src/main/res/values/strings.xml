@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">FragmentsExemplos</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="nome_do_carro_1">Nome do Carro 1</string>
+    <string name="carro_1">Carro 1</string>
+    <string name="carro_2">Carro 2</string>
+    <string name="nome_do_carro_2">Nome do Carro 2</string>
+</resources>
